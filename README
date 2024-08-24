@@ -1,0 +1,5 @@
+i create an amazing  instagram bot 
+this bot will help you to save your time and get more followers 
+we use selenium to help us to login and go to the follower and add it to your following
+and also for privacy i used dot env class to protect my own data
+note this is in instagram so all the xpath and css selector or class name or any path may cange every update 
